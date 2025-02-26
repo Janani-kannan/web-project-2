@@ -7,9 +7,9 @@ from email.mime.base import MIMEBase
 from email import encoders
 from datetime import datetime
  
-EMAIL = 'jananikannan1126@gmail.com'  # Your email
-PASSWORD = ' * **** **** ****'  # Your email password
-TO_EMAIL = 'jananikannan1126@gmail.com'  # Recipient's email
+EMAIL = 'monikaayyalusamy2007@gmail.com'  # Your email
+PASSWORD = '**** **** **** ****'  # Your email password
+TO_EMAIL = 'monikaayyalusamy2007@gmail.com'  # Recipient's email
 SMTP_SERVER = 'smtp.gmail.com'  # For Gmail
 SMTP_PORT = 587  # For Gmail
 SCREENSHOT_FOLDER = 'screenshots'  # Folder to store screenshots
